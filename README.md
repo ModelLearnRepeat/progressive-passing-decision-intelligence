@@ -2,15 +2,6 @@
 
 A football analytics portfolio project using StatsBomb event and 360 data to evaluate progressive passing through attacking value, execution reliability, defensive context, and failure risk.
 
-This project is designed to demonstrate skills relevant to:
-
-- Business Intelligence
-- Data Analysis
-- Data Science
-- Consulting
-- Sports Analytics
-- Applied Statistics
-
 ## Project Question
 
 A progressive pass should not be judged only by how far it moves the ball forward.
