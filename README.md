@@ -193,43 +193,6 @@ Main skills demonstrated:
 - Decision intelligence
 - Risk-reward analysis
 
-## Why This Project Is Relevant for Different Roles
-
-### Business Intelligence
-
-This project demonstrates:
-
-- KPI design
-- Segmentation
-- Performance reporting
-- Reward-risk comparison
-- Executive interpretation
-- Decision-focused metrics
-
-### Data Analysis
-
-This project demonstrates:
-
-- Raw JSON data processing
-- Data cleaning
-- Feature engineering
-- Exploratory analysis
-- Distribution diagnostics
-- Group comparisons
-- Data quality checks
-
-### Data Science
-
-This project demonstrates:
-
-- Expected Threat modeling
-- Spatial state modeling
-- Transition matrices
-- Numerical convergence
-- 360 feature engineering
-- Cluster bootstrap analysis
-- Context-based statistical comparisons
-
 ### Consulting
 
 This project demonstrates:
